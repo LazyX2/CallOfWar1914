@@ -1,0 +1,7 @@
+﻿  SeaBlue.cpp
+C:\Users\1212o\Desktop\SeaBlue\SeaBlue.cpp(141,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\1212o\Desktop\SeaBlue\SeaBlue.cpp(141,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\1212o\Desktop\SeaBlue\SeaBlue.cpp(213,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1212o\Desktop\SeaBlue\SeaBlue.cpp(213,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\1212o\Desktop\SeaBlue\SeaBlue.cpp(151,11): warning C4101: 'cursor': unreferenced local variable
+  SeaBlue.vcxproj -> C:\Users\1212o\Desktop\SeaBlue\x64\Debug\SeaBlue.exe
